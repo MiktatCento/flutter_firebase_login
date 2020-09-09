@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748853933940",
+    "firebase_url": "https://shopst-mc.firebaseio.com",
+    "project_id": "shopst-mc",
+    "storage_bucket": "shopst-mc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748853933940:android:fec9e06e573f74a529de21",
+        "android_client_info": {
+          "package_name": "com.roz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748853933940-ddqs7vt13lm1l137oudblcj90vkhrq6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roz",
+            "certificate_hash": "ce5a1739a95a3bf41e03c27d356098d849db43ef"
+          }
+        },
+        {
+          "client_id": "748853933940-6c010mkv66t40ssjff1h7a8iiblgvpff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZf0N4x55A5l7DdWT2nswmFCYjOzJ7Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748853933940-6c010mkv66t40ssjff1h7a8iiblgvpff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748853933940-mb083vdl670ous81buebbahntq79fjgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
